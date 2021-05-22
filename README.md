@@ -1,0 +1,2 @@
+# RTThread_based_Keil
+GD32F303ZET6    GD32F303E-EVAL
